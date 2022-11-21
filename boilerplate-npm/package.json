@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Jorgehn",
+	"description":"Este proyecto te permitira aprender a modificar el package json y a ser un gran desarrollador backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
